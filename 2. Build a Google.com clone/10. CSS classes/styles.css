@@ -1,13 +1,12 @@
-div {
+.main {
     margin-top: 100px;
 }
 
-img {
+.img{
     display: block;
     width: 300px;
 }
-
-input {
+.inp{
     display: block;
     width: 400px;
 }

@@ -4,9 +4,13 @@ Turn the elements into blocks!
 */
 
 img {
+    margin-top: 100px;
     width: 300px;
+    display: block;
+    
 }
 
 input {
     width: 400px;
+    display: block;
 }
