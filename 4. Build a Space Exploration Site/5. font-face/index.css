@@ -4,5 +4,10 @@
 }
 
 h1 {
+    display: block;
+    font-family:corleone ;
+    font-size: 100px;
+    text-align: center;
+    
     
 }
